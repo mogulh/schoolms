@@ -1,0 +1,228 @@
+
+[2018-07-25 14:13:42] Traceback (most recent call last):
+
+  File "test.py", line 336, in <module>
+    "enabled" : dev_tools_menu_enabled
+
+NameError: name 'dev_tools_menu_enabled' is not defined
+
+
+[2018-07-25 14:24:05] Traceback (most recent call last):
+
+  File "test.py", line 188, in closeEvent
+    subprocess.call(['taskkill', '/F', '/T', '/PID', str(info.proc.pid)])
+
+AttributeError: 'NoneType' object has no attribute 'pid'
+
+
+[2018-07-25 14:25:21] Traceback (most recent call last):
+
+  File "test.py", line 188, in closeEvent
+    subprocess.call(['taskkill', '/F', '/T', '/PID', str(info.proc.pid)])
+
+AttributeError: 'NoneType' object has no attribute 'pid'
+
+
+[2018-07-25 14:25:27] Traceback (most recent call last):
+
+  File "test.py", line 188, in closeEvent
+    subprocess.call(['taskkill', '/F', '/T', '/PID', str(info.proc.pid)])
+
+AttributeError: 'NoneType' object has no attribute 'pid'
+
+
+[2018-07-25 16:26:42] Traceback (most recent call last):
+
+  File "run.py", line 288, in <module>
+    mainWindow = MainWindow()
+
+TypeError: __init__() takes exactly 2 arguments (1 given)
+
+
+[2018-07-25 16:27:43] Traceback (most recent call last):
+
+  File "run.py", line 289, in <module>
+    mainWindow = MainWindow(proc)
+
+  File "run.py", line 145, in __init__
+    super(MainWindow, self).__init__(args)
+
+TypeError: QMainWindow(QWidget parent=None, Qt.WindowFlags flags=0): argument 1 has unexpected type 'Popen'
+
+
+[2018-07-25 16:30:17] Traceback (most recent call last):
+
+  File "run.py", line 290, in <module>
+    print proc.id
+
+AttributeError: 'Popen' object has no attribute 'id'
+
+
+[2021-01-27 10:25:05] Traceback (most recent call last):
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 303, in <module>
+    mainWindow = MainWindow()
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 159, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 191, in __init__
+    windowInfo.SetAsChild(self.getHandle(), rect)
+
+AttributeError: 'MainFrame' object has no attribute 'getHandle'
+
+
+[2021-01-27 10:33:18] Traceback (most recent call last):
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/app.py", line 451, in <module>
+    main()
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/app.py", line 108, in main
+    app = CefApplication(sys.argv)
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/app.py", line 302, in __init__
+    self.setupIcon()
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/app.py", line 320, in setupIcon
+    "resources", "{0}.png".format(sys.argv[1]))
+IndexError: list index out of range
+
+
+[2021-01-27 10:43:45] Traceback (most recent call last):
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 302, in <module>
+    mainWindow = MainWindow()
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 159, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 190, in __init__
+    windowInfo.SetAsChild(int(self.winIdFixed()))
+
+AttributeError: 'MainFrame' object has no attribute 'winIdFixed'
+
+
+[2021-01-27 10:54:16] Traceback (most recent call last):
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 322, in <module>
+    mainWindow = MainWindow()
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 160, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 191, in __init__
+    (width, height) = self.browser_panel.GetClientSize().Get()
+
+AttributeError: 'MainFrame' object has no attribute 'browser_panel'
+
+
+[2021-01-27 10:58:53] Traceback (most recent call last):
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 331, in <module>
+    mainWindow = MainWindow()
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 160, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 192, in __init__
+    windowInfo.SetAsChild(self.getHandle(), rect)
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 205, in getHandle
+    if self.hidden_window:
+
+AttributeError: 'MainFrame' object has no attribute 'hidden_window'
+
+
+[2021-01-27 11:03:21] Traceback (most recent call last):
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 305, in <module>
+    mainWindow = MainWindow()
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 160, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 192, in __init__
+    windowInfo.SetAsChild(int(self.winId()), 0, 0, 0)
+
+  File "window_info.pyx", line 81, in cefpython_py36.WindowInfo.SetAsChild
+
+TypeError: SetAsChild() takes at most 2 positional arguments (4 given)
+
+
+[2021-01-27 11:04:17] Traceback (most recent call last):
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 305, in <module>
+    mainWindow = MainWindow()
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 160, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 192, in __init__
+    windowInfo.SetAsChild(int(self.winId()), rect)
+
+  File "window_info.pyx", line 81, in cefpython_py36.WindowInfo.SetAsChild
+
+  File "window_info.pyx", line 105, in cefpython_py36.WindowInfo.SetAsChild
+
+Exception: WindowInfo.SetAsChild() failed: windowRect: invalid value
+
+
+[2021-01-27 11:07:09] Traceback (most recent call last):
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 306, in <module>
+    mainWindow = MainWindow()
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 160, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 202, in __init__
+    self.resizeEvent()
+
+TypeError: resizeEvent() missing 1 required positional argument: 'event'
+
+
+[2021-01-27 11:26:31] Traceback (most recent call last):
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 308, in <module>
+    mainWindow = MainWindow()
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 160, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 192, in __init__
+    windowInfo.SetAsChild(int(self.winId()), rect)
+
+  File "window_info.pyx", line 81, in cefpython_py36.WindowInfo.SetAsChild
+
+  File "window_info.pyx", line 105, in cefpython_py36.WindowInfo.SetAsChild
+
+Exception: WindowInfo.SetAsChild() failed: windowRect: invalid value
+
+
+[2021-01-27 11:47:35] Traceback (most recent call last):
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 183, in closeEvent
+    self.mainFrame.browser.CloseBrowser()
+AttributeError: 'NoneType' object has no attribute 'CloseBrowser'
+
+
+[2021-01-27 11:51:52] Traceback (most recent call last):
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 322, in <module>
+    mainWindow = MainWindow()
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 161, in __init__
+    self.mainFrame = MainFrame(self)
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 213, in __init__
+    cef.WindowInfo.setAsChild(int(self.winId()))
+AttributeError: type object 'cefpython_py36.WindowInfo' has no attribute 'setAsChild'
+
+
+[2021-01-27 11:56:43] Traceback (most recent call last):
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 303, in <module>
+    mainWindow = MainWindow()
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 160, in __init__
+    self.mainFrame = MainFrame(self)
+
+  File "C:/Users/TMF LTD/Desktop/SW/django2exe-master/py-dist/run.py", line 197, in __init__
+    cefpython.WindowUtils.SetTitle("Schoolapp")
+
+  File "window_utils_win.pyx", line 54, in cefpython_py36.WindowUtils.SetTitle
+
+TypeError: SetTitle() takes exactly 3 positional arguments (2 given)
+

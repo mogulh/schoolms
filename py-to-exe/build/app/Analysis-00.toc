@@ -1,0 +1,605 @@
+(['C:\\Users\\TMF LTD\\Desktop\\SW\\django2exe-master\\py-to-exe\\app.py'],
+ ['C:\\Users\\TMF LTD\\Desktop\\SW\\django2exe-master\\py-to-exe',
+  'C:\\Users\\TMF LTD\\Desktop\\SW\\django2exe-master\\py-to-exe'],
+ ['codecs'],
+ ['c:\\users\\tmf '
+  'ltd\\desktop\\sw\\django2exe-master\\vvenv\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'c:\\users\\tmf '
+  'ltd\\desktop\\sw\\django2exe-master\\vvenv\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'c:\\users\\tmf '
+  'ltd\\desktop\\sw\\django2exe-master\\vvenv\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'c:\\users\\tmf '
+  'ltd\\desktop\\sw\\django2exe-master\\vvenv\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'c:\\users\\tmf '
+  'ltd\\desktop\\sw\\django2exe-master\\vvenv\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ [],
+ [],
+ False,
+ False,
+ False,
+ '3.6.0 (v3.6.0:41df79263a11, Dec 23 2016, 08:06:12) [MSC v.1900 64 bit '
+ '(AMD64)]',
+ [('app',
+   'C:\\Users\\TMF LTD\\Desktop\\SW\\django2exe-master\\py-to-exe\\app.py',
+   'PYSOURCE')],
+ [('tokenize',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\struct.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\copy.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\token.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\calendar.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\bz2.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\_compression.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\quopri.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\getopt.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\base64.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\signal.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\string.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\shutil.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\lzma.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\gzip.py',
+   'PYMODULE'),
+  ('stat',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\stat.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\random.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\bisect.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('uu',
+   'C:\\Users\\TMF LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('posixpath',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\ssl.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\tty.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('ntpath',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('os',
+   'C:\\Users\\TMF LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\os.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\lib\\subprocess.py',
+   'PYMODULE')],
+ [('python36.dll',
+   'c:\\users\\tmf '
+   'ltd\\desktop\\sw\\django2exe-master\\vvenv\\scripts\\python36.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\tmf '
+   'ltd\\desktop\\sw\\django2exe-master\\vvenv\\scripts\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('_bz2',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Users\\TMF '
+   'LTD\\AppData\\Local\\Programs\\Python\\Python36\\DLLs\\pyexpat.pyd',
+   'EXTENSION')],
+ [],
+ [],
+ [('base_library.zip',
+   'C:\\Users\\TMF '
+   'LTD\\Desktop\\SW\\django2exe-master\\py-to-exe\\build\\app\\base_library.zip',
+   'DATA')],
+ [])
